@@ -6,7 +6,7 @@ Disposition de clavier ergonomique pour windows inspirée de bépo, visant à fa
 
 
 ## Utilisation
-La disposition du clavier, sur lequel le TypeMatrix est branché, doit être QWERTY Anglais (États-Unis).
+Le clavier de l'ordinateur sur lequel le TypeMatrix est branché doit être configuré en QWERTY Anglais (États-Unis).
 
 Afin d'avoir un *AltGr* symétrique, il faut créer un mapping de *Right Alt* vers *Left Alt* sur [SharpKeys](https://www.randyrants.com/category/sharpkeys/), puis redémarrer l'ordinateur.
 
