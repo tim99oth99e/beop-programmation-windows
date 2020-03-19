@@ -4,8 +4,8 @@
 ;	  - Shift + AltGr + touche
 
 
-; dead key
-:?C*:``a::à
+; à ajouter : dead keys pour les lettres accentuées espagnoles
+; ex   :?C*:``a::à
 
 
 ; caractères spéciaux :
