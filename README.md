@@ -1,4 +1,4 @@
-# beop-programmation-windows
+# béop programmation
 Disposition de clavier ergonomique pour windows inspirée de bépo, visant à faciliter la programmation sur TypeMatrix 2030.
 
 ![image de la disposition sur TypeMatrix](images/beop_programmation_layout_small.png)
