@@ -1,14 +1,11 @@
 ﻿; organisation :
 ; 	- touche seule
-;	- AltGr + touche
-
-
+;	  - AltGr + touche
+;	  - Shift + AltGr + touche
 
 
 ; dead key
 :?C*:``a::à
-
-
 
 
 ; caractères spéciaux :
@@ -24,10 +21,6 @@ return
 
 ; underscore sur spacebar
 <^>!Space::Send {U+005F} ; _
-
-
-
-
 
 
 ; touche seule
