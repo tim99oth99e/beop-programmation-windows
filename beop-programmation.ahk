@@ -1,11 +1,14 @@
 ﻿; organisation :
 ; 	- touche seule
-;	  - AltGr + touche
-;	  - Shift + AltGr + touche
+;	- AltGr + touche
 
 
-; à ajouter : dead keys pour les lettres accentuées espagnoles
-; ex   :?C*:``a::à
+
+
+; dead key
+:?C*:´a::á
+
+
 
 
 ; caractères spéciaux :
@@ -21,6 +24,10 @@ return
 
 ; underscore sur spacebar
 <^>!Space::Send {U+005F} ; _
+
+
+
+
 
 
 ; touche seule
@@ -53,7 +60,7 @@ l::r
 '::f
 
 ; troisième ligne
-z::[
+z::à
 x::y
 c::x
 v::.
