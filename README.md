@@ -17,3 +17,8 @@ Il suffit ensuite de lancer [beop_programmation.exe](https://github.com/tim99oth
 L'exécutable est un script AutoHotkey compilé.
 
 Cette disposition de clavier s'inspire des dispositions [Bépo](http://bepo.fr), [Béop](http://beop.free.fr) et [Programmer Beop](https://linuxfr.org/users/luxcem/journaux/programmer-beop).
+
+
+## Améliorations futures
+- [ ] Ajouter la touche *Alt*
+- [ ] Définir les accents comme touches mortes (espagnol)
