@@ -74,6 +74,13 @@ m::q
 \::ê
 
 
+
+; touche + shift
++v:::
++b::?
++g::!
+
+
 ; AltGr + touche
 ; 1ère ligne
 <^>!q::Send {U+007C} ; |
