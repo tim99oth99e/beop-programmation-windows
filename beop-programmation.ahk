@@ -76,6 +76,10 @@ m::q
 
 
 ; touche + shift
++w::Send {U+00C9} ; É
++t::Send {U+00C8} ; È
++z::Send {U+00C0} ; À
++\::Send {U+00CA} ; Ê
 +v:::
 +y::?
 +g::!
