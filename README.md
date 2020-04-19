@@ -20,5 +20,6 @@ Cette disposition de clavier s'inspire des dispositions [Bépo](http://bepo.fr),
 
 
 ## Améliorations futures
+- [ ] Corriger le fait de devoir appuiyer plusieurs fois sur *Alt* lorsque l'on souhaite saisir plusieurs fois de suite la même touche.
 - [ ] Ajouter la touche *Alt*
 - [ ] Définir les accents comme touches mortes (espagnol)
