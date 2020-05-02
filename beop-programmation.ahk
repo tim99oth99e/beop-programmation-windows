@@ -116,9 +116,9 @@ m::q
 
 ; 3ème ligne
 <^>!z::Send {U+005C} ; \
-<^>!x::Send {U+007B} ; {
-<^>!c::Send {U+007D} ; }
-<^>!v::Send {U+2026} ; …
+; <^>!x::Send {} ; rien pour l' instant
+<^>!c::Send {U+007B} ; {
+<^>!v::Send {U+007D} ; } 
 <^>!b::Send {U+007E} ; ~ 
 
 <^>!n::Send {U+005E} ; ^
@@ -139,6 +139,8 @@ m::q
 <^>!+f::Send {U+00EE} ; î
 
 <^>!+h::Send {U+00C7} ; Ç (c cedille majuscule)
+
+<^>!+v::Send {U+2026} ; …
 
 <^>!+`;::Send {U+00F1} ; ñ
 <^>!+'::Send {U+2260} ; ≠
